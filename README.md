@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Alexander Sauro</h1>
 <h3 align="center">💡 Desarrollador Full Stack de Argentina 🇦🇷: Convirtiendo Ideas en Soluciones de Calidad</h3>
 
-- 🔭 Actualmente estoy trabajando en **Henry**
+- 🔭 Actualmente estoy trabajando en **Nubbo**
 - 🌱 Actualmente estoy aprendiendo **React, SQL, Typescript, Python y AWS**
 - 🤝 Estoy buscando ayuda con [Movu: Plataforma para contratar trabajadores independientes para tareas físicas.](https://github.com/alxbro1/movu)
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/alxbro1?tab=repositories](https://github.com/alxbro1?tab=repositories)
